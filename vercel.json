@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://farm2plate-e0fd93b7c8ed.herokuapp.com/$1"
+    }
+  ]
+}
