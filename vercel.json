@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://farm2plate-e0fd93b7c8ed.herokuapp.com/$1"
+      "destination": "https://school-management-d0ccfbbd10d1.herokuapp.com/api/$1"
     }
   ]
 }
